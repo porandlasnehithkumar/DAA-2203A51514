@@ -9,3 +9,5 @@ week 1-1 https://github.com/porandlasnehithkumar/DAA-2203A51514/blob/main/week1-
 week 1-3 https://github.com/porandlasnehithkumar/DAA-2203A51514/blob/main/week1-3.cpp
 
 week 2-1 https://github.com/porandlasnehithkumar/DAA-2203A51514/blob/main/week%202-1.cpp
+
+week 2-2 https://github.com/porandlasnehithkumar/DAA-2203A51514/blob/main/week%202-2.cpp
